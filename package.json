@@ -17,13 +17,13 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "prettier-plugin-solidity": "1.0.0-beta.10"
+    "prettier-plugin-solidity": "1.0.0-beta.24"
   },
   "peerDependencies": {
-    "prettier": "^2.0.0"
+    "prettier": "^2.4.0"
   },
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.7.1"
   },
   "prettier": "./index.json",
   "keywords": []
