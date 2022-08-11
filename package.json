@@ -1,6 +1,6 @@
 {
   "name": "@projectsophon/prettier-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prettier config for Project Sophon projects.",
   "author": "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
   "repository": "projectsophon/prettier-config",
